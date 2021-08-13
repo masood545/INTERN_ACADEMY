@@ -6,7 +6,7 @@
 
 #### we need to predict the person is healthy or affected by the parkinson's disease based on these voice measurements
 
-#### I used various algorithms to predict the wether the person affected by disease or not 
+#### I used various algorithms to predict the whether the person affected by disease or not 
 
 #### Algorithms used:LogisticRegression,SupportVectorMachine,RandomForest,XGBOOST
 
